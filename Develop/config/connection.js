@@ -4,7 +4,7 @@ const Sequelize = require('sequelize');
 
 const sequelize = process.env.JAWSDB_URL
   ? new Sequelize(process.env.JAWSDB_URL)
-  : new Sequelize('ecommerce_db', 'root', 'root', {
+  : new Sequelize('ecommerce_db', 'root', 'Nothing-123', {
       host: 'localhost',
       dialect: 'mysql',
       dialectOptions: {
