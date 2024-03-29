@@ -34,4 +34,4 @@ Login into the SQL, source schema.sql. Start nodeJS by running node server.js. I
 For any questions regarding the project, contact michaelchiem@hotmail.com.
 
 [Project Link](git@github.com:Michael-Chiem/Narcissistic-.git) and 
-[Video Link](https://youtu.be/xMm6KXGQBv8)
+[Video Link](https://youtu.be/a5Iaj5jPDIE)
